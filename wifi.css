@@ -1,0 +1,53 @@
+main{
+    width: 500px;
+    height: 240px;
+    background-color:rgb(255, 255, 255) ;
+    border: groove;
+    color: rgb(100, 100, 100);
+    margin-top: 1px;
+}
+font{
+    color: rgb(128, 0, 85);
+}
+.NCAT{
+    width: 260px;
+    height: 260px;
+}
+.security{
+    margin-top: 4px;
+    width: 100px;
+    margin-left: 2px;
+}
+form{
+    margin-top: 25px;
+}
+.school{
+    margin-top: 30px;
+    width: 500px;
+}
+.short{
+    color: rgb(100, 100, 100);
+    margin-top: 20px;
+    font-size: 12px;
+    width: 500px;
+}
+.login{
+    margin-left: 2px;
+    width: 100px;
+}
+.row{
+    font-size: 12px;
+    color: rgb(214, 214, 214);
+    margin-bottom: 2px;
+}
+.welcome{
+    font-size: 25px;
+    width: 400px;
+    padding-bottom: 10px;
+}
+.log{
+    margin-left: 28px;
+}
+button{
+    margin-top: 5px;
+}
